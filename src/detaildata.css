@@ -1,0 +1,5 @@
+.bgimage{
+    width: fit-content;
+    height: fit-content;
+    filter: blur(2px);
+}

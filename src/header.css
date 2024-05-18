@@ -1,0 +1,57 @@
+.header{
+    background-color: black;
+    margin: 0px;
+    
+  }
+  .list{
+    display: flex;
+    color: white ;
+    margin-left: 250px;
+    margin-top: -40px;
+    
+    
+  }
+  .listitems{
+    margin-left: 40px;
+  }
+ 
+  .logo {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 28px;
+    padding-bottom: 3px;
+  }
+  .logotitle {
+    margin-left: 78px;
+    margin-top: -45px;
+    color: yellowgreen;
+    
+  }
+  .magnifyingglass{
+    margin-left: 1170px;
+    margin-top: -40px;
+    padding-bottom:28px;
+    width: 25px;
+    height: 25px;
+    
+  }
+  .buttons{
+    margin-left: 1230px;
+    margin-top: -67px;
+    padding-bottom: 10px;
+    display: flex;
+  }
+  .button1{
+    width: 80px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 0px;
+  }
+  .button2{
+    margin-left: 25px;
+    border-radius: 10px;
+    background-color: rgb(54,187,28);
+  }
+  
